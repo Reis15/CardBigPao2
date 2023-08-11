@@ -1,0 +1,49 @@
+body,html {
+    margin: auto;
+    border: solid 10px rgb(144, 63, 6);
+    background-image: url(fundo-floral.jpg);
+    
+}
+
+
+    #destaque {
+        background-image: url(logan.jpg); 
+        border-top-style:groove;
+        background-size:cover;
+        text-align: center;
+        height: 200px; 
+    }
+    
+
+    #DaCasa {
+            .item1 {
+                    width: 100%;
+                    image-rendering:auto;
+                    text-align: center;
+                    font-family:'Courier New', Courier, monospace;
+        
+        
+    }}
+    #individual {
+                .item2 {
+                        width: 50%;
+                        float:right;
+                        text-align: center;
+                        font-family: 'Courier New', Courier, monospace;
+    }
+
+                .item3 {
+                        width: 50%;
+                        float:right;
+                        text-align: center;
+                        font-family: 'Courier New', Courier, monospace;
+    }}
+    
+    
+    
+
+    .item {
+            border:solid goldenrod;
+            float: inline-start;
+            text-align: center;
+            font-family:'Courier New', Courier, monospace;}
